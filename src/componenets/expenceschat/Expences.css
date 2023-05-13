@@ -1,0 +1,109 @@
+.card_2{
+    /* Rectangle 5 */
+    position: absolute;
+    top: 746px;
+    left: 219px;
+    width: 320px;
+    height: 380px;
+
+    background: #F8FBFF;
+    box-shadow: 0px 4px 8px -2px rgba(0, 79, 149, 0.25);
+    
+}
+.part_2{
+    position: relative;
+    width: 451px;
+    height: 54px;
+    left: 80px;
+    top: 0px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+
+
+    /* primary */
+
+    color: #004F95;
+}
+.col-3{
+    position: relative;
+    left: -20px;
+    top: 0px;
+    width: 130px;
+}
+.card_23{
+    position: absolute;
+    top: 746px;
+    left: 560px;
+    width: 350px;
+    height: 380px;
+
+    background: #F8FBFF;
+    box-shadow: 0px 4px 8px -2px rgba(0, 79, 149, 0.25);
+}
+.part_in{
+    position: relative;
+    width: 451px;
+    height: 54px;
+    left: 90px;
+    top: 0px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+
+
+    /* primary */
+
+    color: #004F95;
+}
+.img12{
+    position: relative;
+    width: 330px;
+    top: -10px;
+    height: 270px;
+    left: 5px;
+}
+.card_234{
+    position: absolute;
+    top: 746px;
+    left: 930px;
+    width: 350px;
+    height: 380px;
+
+    background: #F8FBFF;
+    box-shadow: 0px 4px 8px -2px rgba(0, 79, 149, 0.25);
+}
+.part_in4{
+    position: relative;
+    width: 451px;
+    height: 54px;
+    left: 90px;
+    top: 0px;
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 54px;
+    /* identical to box height */
+
+
+    /* primary */
+
+    color: #004F95;
+}
+.img124{
+    position: relative;
+    width: 320px;
+    top: -10px;
+    height: 250px;
+    left: 10px;
+}

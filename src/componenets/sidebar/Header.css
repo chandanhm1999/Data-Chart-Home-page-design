@@ -1,0 +1,103 @@
+.card{
+  position: absolute;
+width: 160px;
+height: 1187px;
+left: 0px;
+top: 0px;
+
+background: #F0F8FF;
+box-shadow: 4px 4px 8px -2px rgba(0, 79, 149, 0.25);
+}
+.logo_1{
+  position: absolute;
+  left: 33px;
+  top: 60px;
+  font-size: 44px;
+  color: #004F95;
+}
+.home{
+  position: absolute;
+top: 200px;
+left: 54px;
+font-size: 30px;
+border: 2px solid #004F95;
+border-radius: 8px;
+color: #004F95;
+padding: 10px;
+}
+.home:hover{
+  color: white;
+  background: #004F95;
+}
+.user{
+  position: absolute;
+top: 270px;
+left: 54px;
+font-size: 30px;
+color: #FEC601;
+padding: 10px;
+}
+.user2{
+  position: absolute;
+top: 320px;
+left: 54px;
+font-size: 30px;
+color: #FEC601;
+padding: 10px;
+}
+.user3{
+  position: absolute;
+top: 370px;
+left: 54px;
+font-size: 30px;
+color: #FEC601;
+padding: 10px;
+}
+.user4{
+  position: absolute;
+top: 420px;
+left: 54px;
+font-size: 30px;
+color: #FEC601;
+padding: 10px;
+}
+.user5{
+  position: absolute;
+top: 470px;
+left: 54px;
+font-size: 30px;
+color: #FEC601;
+padding: 10px;
+}
+.user6{
+  position: absolute;
+top: 520px;
+left: 54px;
+font-size: 30px;
+color: #FEC601;
+padding: 10px;
+}
+.user7{
+  position: absolute;
+top: 570px;
+left: 54px;
+font-size: 30px;
+color: #FEC601;
+padding: 10px;
+}
+.user8{
+  position: absolute;
+top: 620px;
+left: 54px;
+font-size: 30px;
+color: #FEC601;
+padding: 10px;
+}
+.user9{
+  position: absolute;
+top: 670px;
+left: 54px;
+font-size: 30px;
+color: #FEC601;
+padding: 10px;
+}
