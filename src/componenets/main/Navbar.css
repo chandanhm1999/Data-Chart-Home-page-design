@@ -32,11 +32,11 @@ gap: 16px;
 color: #F0F8FF;
 
 position: absolute;
-width: 161px;
+width: 151px;
 height: 42px;
 left: 780px;
 top: 68px;
-margin: auto;
+cursor: pointer;
 
 /* primary */
 
@@ -61,6 +61,7 @@ height: 30px;
 left: 1160px;
 top: 75px;
 margin: auto;
+cursor: pointer;
 
 /* primary */
 
@@ -90,4 +91,12 @@ margin: auto;
 background: #004F95;
 box-shadow: 2px 4px 8px -2px rgba(0, 79, 149, 0.2);
 border-radius: 5px;
+cursor: pointer;
+}
+.plus{
+    position: relative;
+    left: 788px;
+    top: 47px;
+    font-size: 22px;
+    color: white;
 }

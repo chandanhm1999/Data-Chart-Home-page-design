@@ -22,6 +22,26 @@ const Chat = () => {
     return (
         <div className='card_1'>
             <h1 className='part_1'>Total Incidents Recorded</h1>
+            <div className='btn_chat'>
+                <button> Days</button>
+            </div>
+            <div className='btn_chat1'>
+                <button> Week</button>
+            </div>
+            <div className='btn_chat2'>
+                <button> Month</button>
+            </div>
+            <div className='btn_chat3'>
+                <button> Custom</button>
+            </div>
+            <div className='btn_last'>
+                <button> Recorded</button>
+            </div>
+            <div className='btn_last1'>
+                <button> Cleared</button>
+            </div>
+            <div className='axis'>x-axis : Weeks</div>
+            <div className='axisy'>Y-axis : Incidents</div>
             <div className='row'>
                 <div className='col-4'>
                     <Chart

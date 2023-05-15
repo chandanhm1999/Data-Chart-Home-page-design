@@ -1,6 +1,7 @@
 import React from 'react'
 import "./Navbar.css"
 import { SearchOutlined } from "@ant-design/icons"
+import { PlusCircleOutlined } from "@ant-design/icons"
 
 const Navbar = () => {
     return (
@@ -17,6 +18,9 @@ const Navbar = () => {
             </div>
             <div className='btn3'>
                 <button> Sign Up</button>
+            </div>
+            <div className='plus'>
+                <PlusCircleOutlined />
             </div>
         </div>
     )

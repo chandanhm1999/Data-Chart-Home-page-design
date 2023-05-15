@@ -3,23 +3,24 @@
     position: absolute;
     top: 746px;
     left: 219px;
-    width: 320px;
-    height: 380px;
+    width: 250px;
+    height: 300px;
 
     background: #F8FBFF;
-    box-shadow: 0px 4px 8px -2px rgba(0, 79, 149, 0.25);
+    box-shadow: 4px 8px 8px 2px rgba(0, 79, 149, 0.25);
+    border-radius: 30px;
     
 }
 .part_2{
     position: relative;
-    width: 451px;
-    height: 54px;
-    left: 80px;
+    width: 251px;
+    height: 34px;
+    left: 60px;
     top: 0px;
 
     font-family: 'Poppins';
     font-style: normal;
-    font-weight: 700;
+    font-weight: 500;
     font-size: 36px;
     line-height: 54px;
     /* identical to box height */
@@ -31,30 +32,35 @@
 }
 .col-3{
     position: relative;
-    left: -20px;
-    top: 0px;
-    width: 130px;
+    left: 0px;
+    top: -5px;
+    top: px;
+    width: 280px;
 }
+
+/* car-2 */
+
 .card_23{
     position: absolute;
     top: 746px;
-    left: 560px;
-    width: 350px;
-    height: 380px;
+    left: 490px;
+    width: 250px;
+    height: 300px;
 
     background: #F8FBFF;
-    box-shadow: 0px 4px 8px -2px rgba(0, 79, 149, 0.25);
+    border-radius: 30px;
+    box-shadow: 4px 8px 8px 2px rgba(0, 79, 149, 0.25);
 }
 .part_in{
     position: relative;
-    width: 451px;
-    height: 54px;
-    left: 90px;
+    width: 251px;
+    height: 31px;
+    left: 45px;
     top: 0px;
 
     font-family: 'Poppins';
     font-style: normal;
-    font-weight: 700;
+    font-weight: 500;
     font-size: 36px;
     line-height: 54px;
     /* identical to box height */
@@ -66,31 +72,34 @@
 }
 .img12{
     position: relative;
-    width: 330px;
-    top: -10px;
-    height: 270px;
-    left: 5px;
+    width: 110px;
+    top: 10px;
+    height: 110px;
+    left: 70px;
 }
+
+/* card---3 */
 .card_234{
     position: absolute;
     top: 746px;
-    left: 930px;
-    width: 350px;
-    height: 380px;
+    left: 760px;
+    width: 250px;
+    height: 300px;
 
     background: #F8FBFF;
-    box-shadow: 0px 4px 8px -2px rgba(0, 79, 149, 0.25);
+    box-shadow: 4px 8px 8px 2px rgba(0, 79, 149, 0.25);
+    border-radius: 30px;
 }
 .part_in4{
     position: relative;
-    width: 451px;
-    height: 54px;
-    left: 90px;
+    width: 251px;
+    height: 31px;
+    left: 33px;
     top: 0px;
 
     font-family: 'Poppins';
     font-style: normal;
-    font-weight: 700;
+    font-weight: 500;
     font-size: 36px;
     line-height: 54px;
     /* identical to box height */
@@ -100,10 +109,178 @@
 
     color: #004F95;
 }
-.img124{
+
+
+
+.total_1{
+    position: absolute;
+width: 122px;
+height: 61px;
+left: 0px;
+top: 190px;
+
+font-family: 'Futura Md BT';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 24px;
+text-align: center;
+text-transform: capitalize;
+
+/* Blue */
+
+color: #004F95;
+}
+.total_12{
+    position: absolute;
+width: 122px;
+height: 61px;
+left: 130px;
+top: 190px;
+
+font-family: 'Futura Md BT';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 24px;
+text-align: center;
+text-transform: capitalize;
+
+/* Blue */
+
+color: #004F95;
+}
+.chatbar{
+    position: absolute;
+    left: -20px;
+    
+}
+.card_lastpart{
+    position: absolute;
+    top: 746px;
+    left: 1030px;
+    width: 250px;
+    height: 300px;
+
+    background: #F8FBFF;
+    box-shadow: 4px 8px 8px 2px rgba(0, 79, 149, 0.25);
+    border-radius: 30px;
+}
+.part_in42{
+    position: absolute;
+    
+
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 100%;
+    /* or 32px */
+
+    text-align: center;
+    text-transform: capitalize;
+
+    color: #004F95;
+}
+.lastpart12_1{
     position: relative;
-    width: 320px;
-    top: -10px;
-    height: 250px;
-    left: 10px;
+width: 73px;
+height: 24px;
+top: 110px;
+left: 22px;
+
+font-family: 'Futura Md BT';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #004F95;
+}
+.empty button{
+    position: absolute;
+width: 168px;
+height: 38px;
+top: 140px;
+left: 20px;
+
+/* green */
+
+background: #29A343;
+/* Departments bar shadow */
+
+box-shadow: 2px 3px 2px -2px rgba(0, 79, 149, 0.25);
+border-radius: 10px;
+border: #29A343;
+}
+.des{
+    position: absolute;
+width: 30px;
+height: 29px;
+left: 205px;
+top: 145px;
+
+font-family: 'Futura Md BT';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #2A2A2A;
+
+}
+.lastpart12_122{
+    position: relative;
+width: 233px;
+height: 24px;
+top: 165px;
+left: 22px;
+
+font-family: 'Futura Md BT';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height */
+
+
+color: #004F95;
+}
+.empty2 button{
+    position: absolute;
+width: 88px;
+height: 38px;
+top: 220px;
+left: 20px;
+
+/* green */
+
+background: red;
+/* Departments bar shadow */
+
+box-shadow: 2px 3px 2px -2px rgba(0, 79, 149, 0.25);
+border-radius: 10px;
+border: #29A343;
+}
+.des2{
+    position: absolute;
+width: 30px;
+height: 29px;
+left: 125px;
+top: 227px;
+
+font-family: 'Futura Md BT';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+/* identical to box height */
+
+
+color: #2A2A2A;
+
 }

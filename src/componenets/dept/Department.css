@@ -1,7 +1,7 @@
 .card_10{
     /* Rectangle 5 */
     position: absolute;
-    top: 1166px;
+    top: 1070px;
     left: 560px;
     width: 720px;
     height: 560px;
@@ -39,20 +39,20 @@
 }
 .dep_card{
     position: absolute;
-    top: 1166px;
+    top: 1070px;
     left: 219px;
     width: 300px;
     height: 560px;
 
     background: #F8FBFF;
-    box-shadow: 0px 4px 8px -2px rgba(0, 79, 149, 0.25);
+    box-shadow: 4px 8px 8px 2px rgba(0, 79, 149, 0.25);
     border-radius: 10px;
 }
 .part_in41{
     position: relative;
     width: 451px;
     height: 54px;
-    left: 70px;
+    left: 60px;
     top: 0px;
 
     font-family: 'Poppins';
@@ -67,10 +67,356 @@
 
     color: #004F95;
 }
-.img1241{
-    position: relative;
-    width: 260px;
-    top: 0px;
-    height: 400px;
-    left: 20px;
+.bttn_1 button{
+    position: absolute;
+width: 50px;
+height: 20px;
+left: 16px;
+top: 84px;
+background: #004F95;
+border-radius: 2px;
+border: #004F95;
+}
+.bttn_2 button{
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    left: 70px;
+    top: 84px;
+    border: #3DA5D9;
+    background: #3DA5D9;
+    border-radius: 2px;
+}
+.bttn_23 button{
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    left: 124px;
+    top: 84px;
+    border: #3DA5D9;
+    background: #73BFB8;
+    border-radius: 2px;
+}
+.bttn_24 button{
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    left: 178px;
+    top: 84px;
+    border: #FEC601;
+    background: #FEC601;
+    border-radius: 2px;
+}
+.bttn_22 button{
+    position: absolute;
+    width: 50px;
+    height: 20px;
+    left: 232px;
+    top: 84px;
+    border: #EA7317;
+    background: #EA7317;
+    border-radius: 2px;
+}
+
+.sepci_1{
+    position: absolute;
+    width: 79px;
+    height: 19px;
+    top: 125px;
+    left: 16px;
+
+    font-family: 'Futura Md BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: capitalize;
+
+    /* Blue */
+
+    color: #004F95;
+}
+.output_tag input{
+    position: absolute;
+    width: 237.24px;
+    height: 20px;
+    left: 14px;
+    top: 140px;
+    accent-color:#004F95;
+    
+    border-radius: 25px;
+}
+.num_1{
+    position: absolute;
+width: 20px;
+height: 19px;
+left: 265px;
+top: 142px;
+
+font-family: 'Futura Md BT';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #2A2A2A;
+}
+
+.sepci_19{
+    position: absolute;
+    width: 79px;
+    height: 19px;
+    top: 195px;
+    left: 16px;
+
+    font-family: 'Futura Md BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: capitalize;
+
+    /* Blue */
+
+    color: #004F95;
+}
+.output_tag9 input{
+    position: absolute;
+    width: 237.24px;
+    height: 20px;
+    left: 14px;
+    top: 210px;
+    accent-color: #3DA5D9;
+    
+    border-radius: 25px;
+}
+.num_19{
+    position: absolute;
+width: 20px;
+height: 19px;
+left: 265px;
+top: 213px;
+
+font-family: 'Futura Md BT';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #2A2A2A;
+}
+
+.sepci_18{
+    position: absolute;
+    width: 79px;
+    height: 19px;
+    top: 265px;
+    left: 16px;
+
+    font-family: 'Futura Md BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: capitalize;
+
+    /* Blue */
+
+    color: #004F95;
+}
+.output_tag8 input{
+    position: absolute;
+    width: 237.24px;
+    height: 20px;
+    left: 14px;
+    top: 280px;
+    accent-color:#73BFB8;
+    
+    border-radius: 25px;
+}
+.num_18{
+    position: absolute;
+width: 20px;
+height: 19px;
+left: 265px;
+top: 283px;
+
+font-family: 'Futura Md BT';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #2A2A2A;
+}
+
+.sepci_181{
+    position: absolute;
+    width: 79px;
+    height: 19px;
+    top: 335px;
+    left: 16px;
+
+    font-family: 'Futura Md BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: capitalize;
+
+    /* Blue */
+
+    color: #004F95;
+}
+.output_tag81 input{
+    position: absolute;
+    width: 237.24px;
+    height: 20px;
+    left: 14px;
+    top: 350px;
+    accent-color:#FEC601;
+    
+    border-radius: 25px;
+}
+.num_181{
+    position: absolute;
+width: 20px;
+height: 19px;
+left: 265px;
+top: 351px;
+
+font-family: 'Futura Md BT';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #2A2A2A;
+}
+
+.sepci_182{
+    position: absolute;
+    width: 79px;
+    height: 19px;
+    top: 405px;
+    left: 16px;
+
+    font-family: 'Futura Md BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    text-transform: capitalize;
+
+    /* Blue */
+
+    color: #004F95;
+}
+.output_tag82 input{
+    position: absolute;
+    width: 237.24px;
+    height: 20px;
+    left: 14px;
+    top: 420px;
+    accent-color:#EA7317;
+    
+    border-radius: 25px;
+}
+.num_182{
+    position: absolute;
+width: 20px;
+height: 19px;
+left: 265px;
+top: 423px;
+
+font-family: 'Futura Md BT';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+
+color: #2A2A2A;
+}
+
+
+.axisd{
+    position: absolute;
+    width: 239px;
+    height: 29px;
+    left: 25px;
+    top: 520px;
+
+    font-family: 'Futura Md BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    /* identical to box height */
+
+    text-transform: capitalize;
+
+    /* Blue */
+
+    color: #004F95;
+}
+.axisyd{
+    position: absolute;
+    width: 239px;
+    height: 29px;
+    left: 230px;
+    top: 520px;
+
+    font-family: 'Futura Md BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 29px;
+    /* identical to box height */
+
+    text-transform: capitalize;
+
+    /* Blue */
+
+    color: #004F95;
+}
+
+.dn{
+    position: absolute;
+    width: 239px;
+    height: 29px;
+    left: 525px;
+    top: 500px;
+
+    font-family: 'Futura Md BT';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 29px;
+    /* identical to box height */
+
+    text-transform: capitalize;
+
+    /* Blue */
+
+    color: #004F95;
+}
+.dn1{
+    position: absolute;
+    width: 239px;
+    height: 29px;
+    left: 510px;
+    top: 520px;
+
+    font-family: 'Futura Md BT';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 29px;
+    /* identical to box height */
+
+    text-transform: capitalize;
+
+    /* Blue */
+
+    color: #004F95;
 }
