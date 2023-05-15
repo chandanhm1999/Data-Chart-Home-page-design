@@ -9,7 +9,7 @@ https://data-chart-home-page-design.vercel.app/
 > Data Visual represntation Home page design!
 
 
-## Project Link:
+## Project Preview:
 ![medpic](https://github.com/chandanhm1999/Data-Chart-Home-page-design/assets/109410990/edd921d5-e993-46e3-8494-56bbb965d824)
 
 ## Clone
