@@ -5,7 +5,7 @@
 https://data-chart-home-page-design.vercel.app/
 ```
 
-> Project Details: Frontend Developer Assignment - Medpick 
+> Project Details: Frontend Developer Assignment - Medpick!
 > Data Visual represntation Home page design!
 
 
